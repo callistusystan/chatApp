@@ -4,6 +4,8 @@ This project is a simple web app that I made to aid my understanding of Socket.i
 
 It is fully functional, allowing users to chat in real-time.
 
+![Alt text](/screenshots/screenshot1.png?raw=true "Chat App")
+
 ###Usage###
 
 Requirements:
