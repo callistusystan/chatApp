@@ -6,7 +6,7 @@ It is fully functional, allowing users to chat in real-time.
 
 ![Alt text](/screenshots/screenshot1.png?raw=true "Chat App")
 
-###Usage###
+### Usage ###
 
 Requirements:
 
